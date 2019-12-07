@@ -1,8 +1,3 @@
-#include "stdafx.h"
-int _tmain(int argc, _TCHAR* argv[])
-{
-
-	_asm{
 		;get the address of kernel32.dll
 		xor ecx,ecx
 		mov eax,fs:[0x30];EAX=PEB
@@ -109,7 +104,3 @@ Get_Func:
 		push ecx//hWnd->0
 		call eax
 
-	}
-	
-	return 0;
-}
