@@ -1,4 +1,12 @@
-		;get the address of kernel32.dll
+
+/*
+Author:Migrane
+IF-MODE:Y
+Language:asm
+Func:LoadLibray
+Data:2019-12-7
+*/
+                ;get the address of kernel32.dll
 		xor ecx,ecx
 		mov eax,fs:[0x30];EAX=PEB
 		mov eax,[eax+0xc];EAX=PEB->LDR
