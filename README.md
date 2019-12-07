@@ -4,10 +4,10 @@
 除了shellcode，通过C实现的代码也是可以的。
 非常欢迎各位大佬 push
 
-| 名称  |模板| 类型  | 功能 |  提交日期 |作者|
+| 名称  |模板| 类型/平台  | 功能 |  提交日期 |作者|
 |------|:--:|:-----:|:-----:|:-----:|:------:|
-|SCMode1-asm|Y|asm|获取函数地址|2019-12-7|Migraine|
-|win-reverse-shell|N|C++|获取反弹shell|2019-12-7|Migraine|
+|Mode-Level1|Y|asm/Windows|获取函数地址|2019-12-7|Migraine|
+|win-reverse-shell|N|C++/Windows|获取反弹shell|2019-12-7|Migraine|
 
 
 
