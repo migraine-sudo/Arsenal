@@ -13,7 +13,7 @@
 
 | 名称  |模板| 类型/平台  | 功能 |  提交日期 |作者|
 |------|:--:|:-----:|:-----:|:-----:|:------:|
-|Mode-Level1|Y|asm/Windows|获取函数地址|2019-12-7|Migraine|
+|[Mode-Level1](https://github.com/migraine-sudo/Shellcode-Mode/blob/master/Mode-level1.asm)|Y|asm/Windows|获取函数地址|2019-12-7|Migraine|
 |win-reverse-shell|N|C++/Windows|获取反弹shell|2019-12-7|Migraine|
 
 
