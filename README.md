@@ -24,6 +24,7 @@ Data:2019-12-7 <--日期
 |------|:--:|:-----:|:-----:|:-----:|:------:|
 |[Mode-Level1](https://github.com/migraine-sudo/Shellcode-Mode/blob/master/Mode-level1.asm)|Y|asm/Windows|获取函数地址|2019-12-7|Migraine|
 |[win-reverse-shell](https://github.com/migraine-sudo/Shellcode-Mode/blob/master/win-reverse-shell.cpp)|N|C++/Windows|获取反弹shell|2019-12-7|Migraine|
+|[win-reverse-shell](https://github.com/migraine-sudo/Shellcode-Mode/blob/master/win-reverse-shell.asm)|N|asm/Windows|获取反弹shell|2019-12-8|Migraine|
 
 
 
