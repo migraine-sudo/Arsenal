@@ -1,9 +1,12 @@
-# Shellcode Mode
+# Arsenal 军火库
+项目原名Shellcoe-Mod
 
 ## 简介
-旨在整合一些有意思的shellcode，还有一些经常需要参考的代码模板。 
-除了shellcode，通过C实现的代码也是可以的。 
-非常期待各位大佬 push!!!
+旨在整合/手机一些有意思的shellcode/EXP，还有一些经常需要参考的代码模板。 
+shellcode方面，通过C实现的代码也是可以的。 
+如果可以非常期待各位大佬 push!!!
+
+一部分用于整理自己写的Exploit，用于学习与交流（禁止用于实际网络环境，造成的后果与本人无关
 
 >按照下面这个模板投稿/或者直接改README也是可以哒！
 
@@ -20,11 +23,10 @@ Data:2019-12-7 <--日期
 
 ## 索引
 
-| 名称  |模板| 类型/平台  | 功能 |  提交日期 |作者|
+| 名称  |类型| 语言/平台  | 功能 |  提交日期 |作者|
 |------|:--:|:-----:|:-----:|:-----:|:------:|
-|[Mode-Level1](https://github.com/migraine-sudo/Shellcode-Mode/blob/master/Mode-level1.asm)|Y|asm/Windows|获取函数地址|2019-12-7|Migraine|
-|[win-reverse-shell](https://github.com/migraine-sudo/Shellcode-Mode/blob/master/win-reverse-shell.cpp)|N|C++/Windows|获取反弹shell|2019-12-7|Migraine|
-|[win-reverse-shell](https://github.com/migraine-sudo/Shellcode-Mode/blob/master/win-reverse-shell.asm)|N|asm/Windows|获取反弹shell|2019-12-8|Migraine|
-|[gnome-calculator.asm](https://github.com/migraine-sudo/Shellcode-Mode/blob/master/gnome-calculator.asm)|N|Linux_x64|弹出calc|2019-12-17|Migraine||
-
+|[Mode-Level1](https://github.com/migraine-sudo/Shellcode-Mode/blob/master/Mode-level1.asm)|shellcode|asm/Windows|获取函数地址|2019-12-7|Migraine|
+|[win-reverse-shell](https://github.com/migraine-sudo/Shellcode-Mode/blob/master/win-reverse-shell.cpp)|shellcode|C++/Windows|获取反弹shell|2019-12-7|Migraine|
+|[win-reverse-shell](https://github.com/migraine-sudo/Shellcode-Mode/blob/master/win-reverse-shell.asm)|shellcode|asm/Windows|获取反弹shell|2019-12-8|Migraine|
+|[gnome-calculator.asm](https://github.com/migraine-sudo/Shellcode-Mode/blob/master/gnome-calculator.asm)|shellcode|Linux_x64|弹出calc|2019-12-17|Migraine||
 
