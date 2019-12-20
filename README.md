@@ -29,4 +29,5 @@ Data:2019-12-7 <--日期
 |[win-reverse-shell](https://github.com/migraine-sudo/Shellcode-Mode/blob/master/win-reverse-shell.cpp)|shellcode|C++/Windows|获取反弹shell|2019-12-7|Migraine|
 |[win-reverse-shell](https://github.com/migraine-sudo/Shellcode-Mode/blob/master/win-reverse-shell.asm)|shellcode|asm/Windows|获取反弹shell|2019-12-8|Migraine|
 |[gnome-calculator.asm](https://github.com/migraine-sudo/Shellcode-Mode/blob/master/gnome-calculator.asm)|shellcode|Linux_x64|弹出calc|2019-12-17|Migraine||
+|[CVE-2012-1876](https://github.com/migraine-sudo/Arsenal/blob/master/CVE-2012-1876.html)|Exploit|javascript/WIN7SP1|Code Exec|2019-12-20|Migraine|
 
